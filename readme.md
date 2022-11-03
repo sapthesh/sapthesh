@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sapthesh V</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a Frontend Designer with 6+ years of hands-on experience designing and implementing applications and solutions using a range of technologies and programming languages.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sapthesh&label=Profile%20views&color=0e75b6&style=flat" alt="sapthesh" />  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https://api.github.com/users/sapthesh" /> </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sapthesh&label=Profile%20views&color=0e75b6&style=flat" alt="sapthesh" />  
+  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https://api.github.com/users/sapthesh" /> </p>
 
 <p align="left"> <a href="https://github.com/sapthesh"><img src="https://github-profile-trophy.vercel.app/?username=sapthesh&theme=darkhub&column=-1&margin-w=10&no-bg=true" alt="sapthesh" /></a> </p>
 
@@ -74,6 +77,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sapthesh&show_icons=true&locale=en&layout=compact" alt="sapthesh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sapthesh&show_icons=true&locale=en" alt="sapthesh" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sapthesh&show_icons=true&locale=en&layout=compact" alt="sapthesh" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sapthesh&show_icons=true&locale=en" alt="sapthesh" /></p>
+<p>&nbsp;</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sapthesh&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
