@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/saptheshv" target="blank"><img src="https://img.shields.io/twitter/follow/saptheshv?logo=twitter&style=for-the-badge" alt="saptheshv" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, Node.js, React.js, NPM, Angular.js,**
+- 🌱 I’m currently learning **FULL-STAKE DEVELOPMENT & AWS,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
