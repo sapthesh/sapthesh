@@ -2,7 +2,6 @@
 <h3 align="center">I'm a Frontend Designer with 7+ years of hands-on experience designing and implementing applications and solutions using a range of technologies and programming languages.</h3>
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapthesh&label=Profile%20views&color=0e75b6&style=flat" alt="sapthesh" />  
   <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https://api.github.com/users/sapthesh" /> </p>
 
