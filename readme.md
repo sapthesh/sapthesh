@@ -77,5 +77,5 @@
 
 <p>&nbsp;</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sapthesh&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-three-vert.vercel.app?user=sapthesh&theme=neon-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
