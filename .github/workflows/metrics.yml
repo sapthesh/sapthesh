@@ -1,10 +1,11 @@
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually
+  # Rerun automatically every 4 hours
+  schedule: [{cron: "0 */4 * * *"}]
+  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   push: {branches: ["master", "main"]}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -13,27 +14,35 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # This is the token used to fetch stats
           token: ${{ secrets.GITHUB_TOKEN }}
+          
           # Options
           user: sapthesh
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Kolkata
+          config_timezone: Asia/Kolkata # Your timezone
+          
+          # All the plugins
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-          plugin_lines: yes
           plugin_skyline: yes
+          plugin_traffic: yes
+          plugin_lines: yes
+          
+          # Skyline plugin options
+          plugin_skyline_year: current
           plugin_skyline_frames: 60
           plugin_skyline_quality: 1
-          plugin_skyline_year: current
-          plugin_traffic: yes
+
+      # This is the NEW, crucial step that saves the generated images
+      - name: Commit and push metrics
+        uses: peaceiris/actions-gh-pages@v3.9.3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Pushes the generated files to the 'output' branch
+          publish_branch: output
+          # The directory where the files are stored
+          publish_dir: ./metrics-work
+          # This is necessary to avoid issues with GitHub's file cache
+          force_orphan: true
