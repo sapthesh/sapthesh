@@ -76,6 +76,9 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sapthesh&show_icons=true&locale=en&layout=compact" alt="sapthesh" /></p>
 
 <p>&nbsp;</p>
-
-[![GitHub Streak](https://github-readme-streak-stats-three-vert.vercel.app?user=sapthesh&theme=neon-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github.com/sapthesh">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sapthesh&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  </a>
+</p>
 
