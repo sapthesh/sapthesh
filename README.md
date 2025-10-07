@@ -73,7 +73,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sapthesh&show_icons=true&locale=en" alt="sapthesh" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sapthesh&show_icons=true&locale=en&layout=compact" alt="sapthesh" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sapthesh&show_icons=true&locale=en&layout=compact" alt="sapthesh" style="height:195px" /></p>
 
 <p>&nbsp;</p>
 <p align="center">
