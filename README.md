@@ -2,17 +2,16 @@
 <h3 align="center">I'm a Frontend Designer with 7+ years of hands-on experience designing and implementing applications and solutions using a range of technologies and programming languages.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sapthesh&label=Profile%20views&color=0e75b6&style=flat" alt="sapthesh" />  
-  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https://api.github.com/users/sapthesh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sapthesh&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sapthesh" />  
+  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https://api.github.com/users/sapthesh&style=for-the-badge" />
+ </p>
+
 
 <p align="left"> <a href="https://github.com/sapthesh"><img src="https://github-profile-trophy.vercel.app/?username=sapthesh&theme=darkhub&column=-1&margin-w=10&no-bg=true" alt="sapthesh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/saptheshv" target="blank"><img src="https://img.shields.io/twitter/follow/saptheshv?logo=twitter&style=for-the-badge" alt="saptheshv" /></a> </p>
 
-- 🌱 I’m currently learning **FULL-STAKE DEVELOPMENT & AWS,**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://codepen.io/sapthesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sapthesh" height="30" width="40" /></a>
 <a href="https://dev.to/sapthesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sapthesh" height="30" width="40" /></a>
 <a href="https://dribbble.com/sapthesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sapthesh" height="30" width="40" /></a>
