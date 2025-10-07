@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sapthesh</h1>
 <h3 align="center">I'm a Frontend Designer with 7+ years of hands-on experience designing and implementing applications and solutions using a range of technologies and programming languages.</h3>
 
+<h3 align="center">🌱 I like building offline, privacy Focused web apps 🌱</h3>
+
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sapthesh&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sapthesh" />  
   <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https://api.github.com/users/sapthesh&style=for-the-badge" />
@@ -77,16 +80,6 @@
   </picture>
 </a>
 
-
-<div class="center" style="display:inline-block;">
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=10796379&period=all_times" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=10796379&period=all_times&image_size=auto&color_scheme=dark" width="50%" height="auto">
-    <img alt="Contribution Time Distribution of @sapthesh" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=10796379&period=all_times&image_size=auto&color_scheme=light" width="50%" height="auto">
-  </picture>
-</a>
-
-</div>
 
 <p>&nbsp;</p>
 <p align="center">
