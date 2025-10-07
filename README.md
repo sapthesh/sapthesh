@@ -18,7 +18,6 @@
 <a href="https://medium.com/@sapthesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sapthesh" height="30" width="40" /></a>
 </p>
 
-
 <h3 align="left">Languages:</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -71,8 +70,23 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sapthesh&show_icons=true&locale=en" alt="sapthesh" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sapthesh&show_icons=true&locale=en&layout=compact" alt="sapthesh" style="height:195px" /></p>
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=10796379" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=10796379&image_size=auto&color_scheme=dark" width="100%" height="auto">
+    <img alt="Dashboard stats of @sapthesh" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=10796379&image_size=auto&color_scheme=light" width="100%" height="auto">
+  </picture>
+</a>
+
+
+<div class="center" style="display:inline-block;">
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=10796379&period=all_times" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=10796379&period=all_times&image_size=auto&color_scheme=dark" width="50%" height="auto">
+    <img alt="Contribution Time Distribution of @sapthesh" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=10796379&period=all_times&image_size=auto&color_scheme=light" width="50%" height="auto">
+  </picture>
+</a>
+
+</div>
 
 <p>&nbsp;</p>
 <p align="center">
