@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sapthesh</h1>
 <h3 align="center">I'm a Frontend Designer with 7+ years of hands-on experience designing and implementing applications and solutions using a range of technologies and programming languages.</h3>
 
-<h3 align="center">🌱 I like building offline, privacy Focused web apps 🌱</h3>
+<h3 align="center">🌱 I like building offline, privacy focused web apps 🌱</h3>
 
 
 
