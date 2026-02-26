@@ -1,90 +1,106 @@
-<h1 align="center">Hi 👋, I'm Sapthesh</h1>
-<h3 align="center">I'm a Frontend Designer with 7+ years of hands-on experience designing and implementing applications and solutions using a range of technologies and programming languages.</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Sapthesh;Frontend+Designer;WordPress+Plugin+Developer;Building+Privacy-Focused+Web+Apps" alt="Typing SVG" />
+</h1>
 
-<h3 align="center">🌱 I like building offline, privacy focused web apps 🌱</h3>
+<h3 align="center">Frontend Designer & Part-Time Developer with 9+ years of hands-on experience designing and implementing applications and solutions.</h3>
 
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sapthesh&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sapthesh" />  
-  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https://api.github.com/users/sapthesh&style=for-the-badge" />
- </p>
-
-
-<p align="left"> <a href="https://github.com/sapthesh"><img src="https://github-profile-trophy.vercel.app/?username=sapthesh&theme=darkhub&column=-1&margin-w=10&no-bg=true" alt="sapthesh" /></a> </p>
-
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/sapthesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sapthesh" height="30" width="40" /></a>
-<a href="https://dev.to/sapthesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sapthesh" height="30" width="40" /></a>
-<a href="https://dribbble.com/sapthesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sapthesh" height="30" width="40" /></a>
-<a href="https://medium.com/@sapthesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sapthesh" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sapthesh&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />  
 </p>
 
-<h3 align="left">Languages:</h3>
+---
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 🤝 Connect with me
 
-<h3 align="left">Tools/IDEs:</h3>
-
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<h3 align="left">Education:</h3>
-
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-
-<h3 align="left">Frameworks:</h3>
-
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-<h3 align="left">Cloud:</h3>
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-<h3 align="left">Other Tools:</h3>
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)
-![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=10796379" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=10796379&image_size=auto&color_scheme=dark" width="100%" height="auto">
-    <img alt="Dashboard stats of @sapthesh" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=10796379&image_size=auto&color_scheme=light" width="100%" height="auto">
-  </picture>
-</a>
-
-
-<p>&nbsp;</p>
 <p align="center">
-  <a href="https://github.com/sapthesh">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sapthesh&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <a href="https://codepen.io/sapthesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
+  <a href="https://dev.to/sapthesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
+  <a href="https://dribbble.com/sapthesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" /></a>
+  <a href="https://medium.com/@sapthesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,bootstrap,sass,jquery,wordpress,figma,ps,ai,androidstudio,vscode,atom,aws,cloudflare,docker,heroku,github&perline=10" alt="Tech Stack" />
   </a>
 </p>
 
+<details>
+  <summary><b>View Additional Tools & Platforms</b></summary>
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" />
+    <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" />
+    <img src="https://img.shields.io/badge/Joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white" />
+    <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white" />
+    <img src="https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
+    <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />
+    <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />
+  </p>
+</details>
+
+---
+
+### 🔌 Featured Work
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="400px">
+        <h3>WordPress Plugin: Zippy Message Floating Chat</h3>
+        <p>Adds a beautiful sticky button to your website without the “weight” of traditional plugins</p>
+        <a href="https://wordpress.org/plugins/zippy-message-floating-chat/"><img src="https://img.shields.io/badge/View_Plugin-117AC9?style=for-the-badge&logo=wordpress&logoColor=white" alt="View Plugin" /></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 GitHub Analytics & Activity
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="55%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapthesh&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" style="margin-bottom: 10px;" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=sapthesh&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%" style="margin-bottom: 10px;" />
+      <br/>
+      <img src="https://streak-stats.demolab.com/?user=sapthesh&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" style="margin-bottom: 10px;" />
+      <br/>
+      <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=10796379" target="_blank" style="display: block">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=10796379&image_size=auto&color_scheme=dark" width="100%" height="auto">
+          <img alt="Dashboard stats of @sapthesh" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=10796379&image_size=auto&color_scheme=light" width="100%" height="auto">
+        </picture>
+      </a>
+      <br/>
+      <a href="https://github.com/sapthesh">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sapthesh&bg_color=0D1117&color=0e75b6&line=0e75b6&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+      </a>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <br/>
+      <img src="https://github.com/sapthesh/sapthesh/raw/refs/heads/main/github-metrics.svg" alt="Metrics" width="100%">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sapthesh/sapthesh/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sapthesh/sapthesh/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sapthesh/sapthesh/output/github-contribution-grid-snake.svg" width="100%">
+      </picture>
+</p>
