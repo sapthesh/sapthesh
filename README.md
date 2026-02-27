@@ -48,22 +48,6 @@
 
 ---
 
-### 🔌 Featured Work
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="400px">
-        <h3>WordPress Plugin: Zippy Message Floating Chat</h3>
-        <p>Adds a beautiful sticky button to your website without the “weight” of traditional plugins</p>
-        <a href="https://wordpress.org/plugins/zippy-message-floating-chat/"><img src="https://img.shields.io/badge/View_Plugin-117AC9?style=for-the-badge&logo=wordpress&logoColor=white" alt="View Plugin" /></a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 📊 GitHub Analytics & Activity
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
