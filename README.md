@@ -53,9 +53,6 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="55%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapthesh&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" style="margin-bottom: 10px;" />
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=sapthesh&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%" style="margin-bottom: 10px;" />
       <br/>
       <img src="https://streak-stats.demolab.com/?user=sapthesh&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" style="margin-bottom: 10px;" />
       <br/>
