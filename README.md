@@ -48,6 +48,26 @@
 
 ---
 
+## 🍄 My Interactive GitHub Graph
+
+*I built a custom Python project that turns my commit history into a fully animated Mario game level! It uses pure SVG math to calculate jumps, collect coins, and finish the level based on my real data.*
+
+<div align="center">
+  <a href="https://github.com/sapthesh/Mario-GitHub-Contribution-Graph">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sapthesh/Mario-GitHub-Contribution-Graph/main/mario_contribution.svg?v=1">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sapthesh/Mario-GitHub-Contribution-Graph/main/mario_contribution.svg?v=1">
+      <img alt="Mario Contribution Graph" src="https://raw.githubusercontent.com/sapthesh/Mario-GitHub-Contribution-Graph/main/mario_contribution.svg?v=1" width="100%">
+    </picture>
+  </a>
+</div>
+
+> **Want this on your own profile?** 🚀  
+> Check out my [**Mario-Contribution-Graph**](https://github.com/sapthesh/Mario-Contribution-Graph) repository for the open-source code and a 5-minute setup guide.  
+> ⭐ *Feel free to star or fork the repo if you like it!*
+
+---
+
 ### 📊 GitHub Analytics & Activity
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
@@ -77,7 +97,6 @@
 ---
 
 ### 🐍 Contribution Activity
-
 <p align="center">
   <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sapthesh/sapthesh/output/github-contribution-grid-snake-dark.svg">
