@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Sapthesh;Frontend+Designer;WordPress+Plugin+Developer;Building+Privacy-Focused+Web+Apps" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Frontend Designer & Part-Time Developer with 9+ years of hands-on experience designing and implementing applications and solutions.</h3>
+<h3 align="center">Frontend Designer & Part-Time Developer with 9+ years of hands-on experience designing and implementing applications and solutions..</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sapthesh&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />  
